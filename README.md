@@ -6,7 +6,7 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 ## Results
 
-Before doing any analysis, I filtered out all the reviews that did not get at least 20 votes. After filtering the data, there were Vine reviews and 39869 non-Vine reviews. 
+Before doing any analysis, I filtered out all the reviews that did not get at least 20 votes. 
 
 
 <img width="903" alt="Screen Shot 2021-08-13 at 6 15 54 PM" src="https://user-images.githubusercontent.com/82424250/129426369-e39e3376-6cc6-4628-80c3-e16e0a1bac24.png">
@@ -16,5 +16,7 @@ Before doing any analysis, I filtered out all the reviews that did not get at le
 
 
 
+## Summary
 
+Overall, Vine reviews showed a bias. Out of all of the 5 star reviews, Vine reviews accounted for 89% of them while non-Vine reviews accounted for the remaining 11 percent. This suggests that people who purchase the product are more likely to rate a purchase more favorably than one who has not purchased the product.  
 
